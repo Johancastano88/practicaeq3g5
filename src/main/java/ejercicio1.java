@@ -11,7 +11,8 @@ public class ejercicio1 {
     
     
     public static void main(String[] args) { 
-    System.out.println("hola estoy escribiendo codigo pata subirlo a Git");
+        System.out.println("Hola");
+        System.out.println("hola estoy escribiendo codigo pata subirlo a Git");
     }
     
 }
